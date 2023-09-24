@@ -402,6 +402,8 @@ input:checked+.roundbutton:before {
   border-radius: 10px;
 }
 
+
+/* to set text header in media text */
 @media only screen and (max-width: 858px) {
   .centered {
     left: 30%;
